@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">flagmentTest03</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="flagmentTxtA">flagmentA</string>
+    <string name="flagmentTxtB">flagmentB</string>
+    <string name="flagmentTxtC">flagmentC</string>
+    <string name="btnTxt1">flagmentA</string>
+    <string name="btnTxt2">flagmentB</string>
+    <string name="btnTxt3">flagmentC</string>
 </resources>
